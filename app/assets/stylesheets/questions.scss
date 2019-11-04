@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 12px;
+}
+
+input {
+  border-radius: 8px;
+  font-family : inherit;
+  font-size   : 100%;
+}
+
+input[type="submit" i] {
+  -webkit-appearance: none;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  border-left: 4px solid #dddddd;
+  padding: 0px 16px;
+}
+
+.answer {
+  font-weight: bold;
+}
+
+.link {
+  font-size: 14px;
+  color: #5a96bb;
+}
+
+a {
+  text-decoration: none;
+  color: #5a96bb;
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: lighter;
+}
